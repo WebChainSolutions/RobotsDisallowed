@@ -46,3 +46,12 @@ Thanks!
 It's important to us to thank people when they help out with the project.
 
 - Brad Wolfe for adding the epic Bash multithreading (yeah, you read that correctly; go check the code)
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
